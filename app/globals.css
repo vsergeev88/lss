@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+h2 {
+  color: rgb(var(--foreground-rgb));
+  font-size: 32px;
+  margin: 20px 0 10px 0;
+}
